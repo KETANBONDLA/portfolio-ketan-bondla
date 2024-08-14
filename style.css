@@ -487,9 +487,9 @@ text-align: left;
 
   .logo{
     height: 5%;
-    width: 10%;
+    width: 15%;
     transition: 0.3s ease-in-out;
-    margin-right: 250px;
+    margin-right: 140px;
   }
 
   .navbar a{
