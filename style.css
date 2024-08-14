@@ -485,6 +485,13 @@ text-align: left;
     display: none;
   }
 
+  .logo{
+    height: 5%;
+    width: 10%;
+    transition: 0.3s ease-in-out;
+    margin-right: 250px;
+  }
+
   .navbar a{
     display: block;
     font-size: 2rem;
@@ -497,6 +504,11 @@ text-align: left;
   }
   .gradient-btn{
     display: none;
+  }
+  logo{
+    height: 30%;
+    width: 50%;
+    transition: 0.3s ease-in-out;
   }
 
   .home{ flex-direction: column-reverse;
